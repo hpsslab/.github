@@ -47,18 +47,39 @@ Our research is published at premiere venues including **MICRO, PPoPP, SC, ICS, 
 
 ## Selected Highlights
 
-| Year | Venue | Topic |
+| Year | Venue | Title |
 |------|-------|-------|
-| 2025 | **ICS** | Holistic resource management for diversely scaled edge cloud systems (HARNESS) |
-| 2025 | **DATE** | Memory contention-based covert channel communication on shared DRAM SoCs (MC3) |
-| 2024 | **DATE** | Multi-network, multi-accelerator object detection for aerial drones *(Outstanding Paper — Autonomous Systems Design Initiative)* |
-| 2024 | **PPoPP** | Shared memory-contention-aware concurrent DNN execution for heterogeneous SoCs |
-| 2024 | **ICS** | Scheduling for cyber-physical systems with heterogeneous processing units |
-| 2022 | **DAC** | Energy-aware neural network inference on multi-accelerator heterogeneous SoCs (AxoNN) |
-| 2021 | **MICRO** | Processor-centric contention-aware slowdown model for heterogeneous SoCs (PCCS) |
-| 2018 | **SC** | Breaking GPU memory capacity limits with direct NVM access (DRAGON) |
+| 2025 | **ICS** | [HARNESS: Holistic Resource Management for Diversely Scaled Edge Cloud Systems](https://mehmet.belviranli.com/papers/ics25.pdf) |
+| 2025 | **DATE** | [MC3: Memory Contention-Based Covert Channel Communication on Shared DRAM System-on-Chips](https://mehmet.belviranli.com/papers/date25.pdf) |
+| 2024 | **ICS** | [Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints](https://mehmet.belviranli.com/papers/ics24.pdf) |
+| 2024 | **PPoPP** | [Shared Memory-Contention-Aware Concurrent DNN Execution for Diversely Heterogeneous SoCs](https://mehmet.belviranli.com/papers/ppopp24.pdf) |
+| 2024 | **DATE** | [Context-Aware Multi-Model Object Detection for Diversely Heterogeneous Compute Systems](https://mehmet.belviranli.com/papers/date24.pdf) *(Outstanding Paper)* |
 
-See the full list on our [publications page](https://hpss.mines.edu/publications).
+## Full Publications
+
+| Year | Venue | Title |
+|------|-------|-------|
+| 2025 | **ICS** | [HARNESS: Holistic Resource Management for Diversely Scaled Edge Cloud Systems](https://mehmet.belviranli.com/papers/ics25.pdf) |
+| 2025 | **DATE** | [MC3: Memory Contention-Based Covert Channel Communication on Shared DRAM System-on-Chips](https://mehmet.belviranli.com/papers/date25.pdf) |
+| 2024 | **ICS** | [Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints](https://mehmet.belviranli.com/papers/ics24.pdf) |
+| 2024 | **PPoPP** | [Shared Memory-Contention-Aware Concurrent DNN Execution for Diversely Heterogeneous SoCs](https://mehmet.belviranli.com/papers/ppopp24.pdf) |
+| 2024 | **DATE** | [Context-Aware Multi-Model Object Detection for Diversely Heterogeneous Compute Systems](https://mehmet.belviranli.com/papers/date24.pdf) *(Outstanding Paper)* |
+| 2022 | **PACT** | [Optimizing Regular Expressions via Rewrite-Guided Synthesis](https://mehmet.belviranli.com/papers/pact22.pdf) |
+| 2022 | **DAC** | [AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs](https://mehmet.belviranli.com/papers/dac22.pdf) |
+| 2021 | **MICRO** | [PCCS: Processor-Centric Contention-Aware Slowdown Model for Heterogeneous System-on-Chips](https://mehmet.belviranli.com/papers/micro21.pdf) |
+| 2021 | **Parallel Computing** | [A Computational-Graph Partitioning Method for Training Memory-Constrained DNNs](https://mehmet.belviranli.com/papers/parco21.pdf) |
+| 2020 | **PACT** | [MEPHESTO: Modeling Energy-Performance in Heterogeneous SoCs and Their Trade-Offs](https://mehmet.belviranli.com/papers/pact20.pdf) |
+| 2019 | **DATE** | [FLAME: Graph-Based Hardware Representations for Rapid and Precise Performance Modeling](https://mehmet.belviranli.com/papers/date19.pdf) |
+| 2018 | **SC** | [DRAGON: Breaking GPU Memory Capacity Limits with Direct NVM Access](https://mehmet.belviranli.com/papers/sc18.pdf) |
+| 2018 | **HPEC** | [Designing Algorithms for the EMU Migrating-Threads-Based Architecture](https://mehmet.belviranli.com/papers/hpec18.pdf) |
+| 2018 | **PPoPP** | [Juggler: A Dependency-Aware Task-Based Execution Framework for GPUs](https://mehmet.belviranli.com/papers/ppopp18.pdf) |
+| 2017 | **MICRO** | [Wireframe: Supporting Data-Dependent Parallelism through Dependency Graph Execution in GPUs](https://mehmet.belviranli.com/papers/micro17.pdf) |
+| 2016 | **ICS** | [CuMAS: Data Transfer Aware Multi-Application Scheduling for Shared GPUs](https://mehmet.belviranli.com/papers/ics16.pdf) |
+| 2015 | **ICS** | [PeerWave: Exploiting Wavefront Parallelism on GPUs with Peer-SM Synchronization](https://mehmet.belviranli.com/papers/ics15.pdf) |
+| 2015 | **PACT** | [Stadium Hashing: Scalable and Flexible Hashing on GPUs](https://mehmet.belviranli.com/papers/pact15.pdf) |
+| 2013 | **TACO** | [A Dynamic Self-Scheduling Scheme for Heterogeneous Multiprocessor Architectures](https://mehmet.belviranli.com/papers/taco13.pdf) |
+
+See also: [Google Scholar](https://scholar.google.com/citations?user=8FX4WfwAAAAJ&hl=en) · [hpss.mines.edu/publications](https://hpss.mines.edu/publications)
 
 ## Team
 
