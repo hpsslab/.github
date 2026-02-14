@@ -14,9 +14,16 @@
 
 ## About
 
-We are a research group at the [Colorado School of Mines](https://www.mines.edu/) led by [Prof. Mehmet E. Belviranli](https://cs.mines.edu/project/belviranli-mehmet/). We focus on improving the **performance and utilization** of a wide range of computing systems — from mobile and autonomous systems-on-chip to large-scale high-performance servers. We build ecosystems that efficiently integrate high-performance computing into real-life applications.
+We are a dynamic research group at the [Colorado School of Mines](https://www.mines.edu/) led by [Prof. Mehmet E. Belviranli](https://cs.mines.edu/project/belviranli-mehmet/). We focus on improving the **performance and utilization** of a wide range of computing systems — from mobile and autonomous systems-on-chip to large-scale high-performance servers. We build ecosystems that efficiently integrate high-performance computing into real-life applications.
 
 Our research is published at premiere venues including **MICRO, PPoPP, SC, ICS, PACT, DATE,** and **DAC**.
+
+## News
+
+- **Oct 2025** — NSF/DoD workforce development grant awarded for the SMILE project (Semiconductor Manufacturing Education)
+- **Jun 2025** — Ph.D. student Ismet Dagli and M.S. student Ryan Marsala completed their degrees
+- **Apr 2025** — Paper on resource management for edge systems (HARNESS) accepted to **ICS'25**
+- **Nov 2024** — Memory contention covert channel attack paper (MC3) accepted to **DATE'25**
 
 ## Research Areas
 
@@ -26,20 +33,41 @@ Our research is published at premiere venues including **MICRO, PPoPP, SC, ICS, 
 - **Autonomous Computing** — Multi-network, multi-accelerator perception pipelines for aerial drones and edge platforms
 - **Parallel Programming Paradigms** — Programming abstractions and extended memory spaces (e.g., DRAGON) for heterogeneous systems
 - **Runtime Systems** — Dynamic workload management and out-of-core GPU data processing
-- **Large-Scale Superconducting Computers** — Exploring next-generation computing substrates
-- **Next Generation Transistors** — Architecture-level support for emerging device technologies
+- **Large-Scale Superconducting Computers** — Modeling memory-compute gap in Josephson-CMOS hybrid systems
+- **Next Generation Transistors** — Architecture-level support for emerging device technologies (graphene nanoribbons via SRC)
+
+## Funded Research
+
+| Project | Funder |
+|---------|--------|
+| Robust Enforcement of Customizable Resource Constraints in Heterogeneous Embedded Systems | NSF |
+| Smarter Nanoelectronics with Atomically Precise Graphene Nanoribbons | SRC |
+| Modeling the Memory-Compute Gap in Large-scale Superconductive Systems | DoE |
+| SMILE — Semiconductor Manufacturing Education | NSF / DoD |
 
 ## Selected Highlights
 
 | Year | Venue | Topic |
 |------|-------|-------|
+| 2025 | **ICS** | Holistic resource management for diversely scaled edge cloud systems (HARNESS) |
+| 2025 | **DATE** | Memory contention-based covert channel communication on shared DRAM SoCs (MC3) |
 | 2024 | **DATE** | Multi-network, multi-accelerator object detection for aerial drones *(Outstanding Paper — Autonomous Systems Design Initiative)* |
-| 2024 | **PPoPP** | Increasing throughput of concurrent DNNs on resource-limited SoCs |
-| 2022 | **PACT** | Optimizing regular expressions via rewrite-guided synthesis |
-| 2022 | **DAC** | Energy-aware neural network inference on multi-accelerator heterogeneous SoCs |
-| 2021 | **MICRO** | Shared memory contention slowdown model for diversely heterogeneous SoCs |
+| 2024 | **PPoPP** | Shared memory-contention-aware concurrent DNN execution for heterogeneous SoCs |
+| 2024 | **ICS** | Scheduling for cyber-physical systems with heterogeneous processing units |
+| 2022 | **DAC** | Energy-aware neural network inference on multi-accelerator heterogeneous SoCs (AxoNN) |
+| 2021 | **MICRO** | Processor-centric contention-aware slowdown model for heterogeneous SoCs (PCCS) |
+| 2018 | **SC** | Breaking GPU memory capacity limits with direct NVM access (DRAGON) |
 
 See the full list on our [publications page](https://hpss.mines.edu/publications).
+
+## Team
+
+| Role | Members |
+|------|---------|
+| **Director** | [Mehmet E. Belviranli](https://cs.mines.edu/project/belviranli-mehmet/) — Assistant Professor |
+| **PhD Students** | Benjamin Wagley, Justin Davis |
+| **MS Students** | Ali Ozaslan, Jack Hall, Tristan Yan |
+| **Alumni** | Ismet Dagli *(Ph.D. → Microsoft HPC-AI)*, Ryan Marsala, Alexander Cieslewicz, Justin McGowen, James Crea *(→ Ph.D. @ UIUC)*, and others |
 
 ## Getting Started with Our Repos
 
@@ -61,6 +89,6 @@ We offer opportunities to work with diversely heterogeneous architectures — in
 
 **HPSS-Lab** · Colorado School of Mines · Golden, CO
 
-Supported by NSF CCF and industry partners
+Supported by NSF, DoE, SRC, and DoD
 
 </div>
